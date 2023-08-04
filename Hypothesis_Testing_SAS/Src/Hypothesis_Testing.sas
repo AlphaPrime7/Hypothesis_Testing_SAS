@@ -53,7 +53,7 @@ cohens_d = (mean-&H0)/stdev;
 proc print data=project.cohens_d;
 run;
 
-%mend sortandprint;
+%mend cohens_ttest;
 
 %cohens_ttest(data=project.weight,var=Student_Weight,H0=140);
  
