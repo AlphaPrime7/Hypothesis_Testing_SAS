@@ -3,6 +3,7 @@ Input: weight.sav
 Output: Just some testing on using SAS to convert sav data into data used for excel and SPSS
 Written by:Tingwei Adeck
 Date: Sep 18 2022
+Last modified: 08/04/2023
 Description: Introduction to hypothesis testing in SAS
 Requirements: Need library called project, weight.sav file.
 Dataset description: Data obtained from Dr. Gaddis (small dataset)
